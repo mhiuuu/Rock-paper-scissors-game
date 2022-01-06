@@ -20,8 +20,7 @@ while True:
       print("One two three, rock - paper - scissors!")
       print("Player choosed: " + player)
       print("Your opponent choosed: " + computer)
-      print("YOU WINNNN!!!")
-    
+      print("YOU WINNNN!!!")   
     elif computer == "paper":
       print("One two three, rock - paper - scissors!")
       print("Player choosed: " + player)
@@ -33,8 +32,7 @@ while True:
       print("One two three, rock - paper - scissors!")
       print("Player choosed: " + player)
       print("Your opponent choosed: " + computer)
-      print("YOU WINNNN!!!")
-    
+      print("YOU WINNNN!!!")    
     elif computer == "rock":
       print("One two three, rock - paper - scissors!")
       print("Player choosed: " + player)
@@ -47,7 +45,6 @@ while True:
       print("Player choosed: " + player)
       print("Your opponent choosed: " + computer)
       print("YOU WINNNN!!!")
-  
     elif computer == "scissors":
       print("One two three, rock - paper - scissors!")
       print("Player choosed: " + player)
